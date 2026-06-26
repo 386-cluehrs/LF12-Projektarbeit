@@ -64,6 +64,13 @@ Christoph
   </tr>
 </table>
 
+### Unterrichtsinhalte
+
+| Tag | Inhalte |
+| :--- | :--- |
+| 05.06.2026 | Projekt vorbereitung begonnen und Wahlen gemacht |
+| 26.06.2026 | Weitere Informationen bekommen und Informationsblätter zu den Themen gemacht |
+
 ## Funktionen
 
 - Funktion 1
