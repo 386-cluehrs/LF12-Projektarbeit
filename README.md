@@ -9,7 +9,7 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
 <table>
   <tr>
     <td>Dauer</td>
-    <td>120 Schulstunden</td>
+    <td>120 Schulstunden (min. 10 Termine)</td>
   </tr>
   <tr>
     <td>Start</td>
@@ -18,10 +18,6 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
   <tr>
     <td>Ende</td>
     <td>Ende 2. Lehrjahr</td>
-  </tr>
-  <tr>
-    <td>Dauer</td>
-    <td>min. 10 Termine</td>
   </tr>
   <tr>
     <td>Endergebnis Vorstellung</td>
