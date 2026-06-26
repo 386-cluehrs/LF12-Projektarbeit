@@ -21,13 +21,19 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
   </tr>
 </table>
 
+### Voraussetzungen
+
+Es muss Daten einlesen, speichern und auswerten.  
+Van Kempen hätte gerne etwas um alle Kisten automatisch zu inventarisieren. (Muss aber nicht gemacht werden)  
+Es muss am Ende des Projektes funktionieren, da die Noten davon abhängen.  
+
 ### Thema
 
 [Zeiterfassung](https://github.com/386-cluehrs/LF12-Projektarbeit/blob/6e69d2bfa294c82eb41b7f330cadcf5bc0b50250/Design%20Document%20Zeiterfassung.pdf)  
-Funksystem  
 Geräte-Heatmap  
 Beschleunigungstest  
-Anwesenheitskontrolle für Schüler
+Anwesenheitskontrolle für Schüler (RFID-System)  
+(Wetter Station)  
 
 ### Koordinatoren
 
