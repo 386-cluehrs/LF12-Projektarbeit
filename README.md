@@ -19,13 +19,32 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
     <td>Ende</td>
     <td>Ende 2. Lehrjahr</td>
   </tr>
-</table>
+  <tr>
+    <td>Dauer</td>
+    <td>min. 10 Termine</td>
+  </tr>
+  <tr>
+    <td>Endergebnis Vorstellung</td>
+    <td>Präsentation, die Sinn und Zweck erklärt und demonstriert.</td>
+  </tr>
+</table>  
+
+#### Ideen
+
+- Wöchentliches Meeting (ca. 45 - 60 Min)
 
 ### Voraussetzungen
 
 Es muss Daten einlesen, speichern und auswerten.  
 Van Kempen hätte gerne etwas um alle Kisten automatisch zu inventarisieren. (Muss aber nicht gemacht werden)  
 Es muss am Ende des Projektes funktionieren, da die Noten davon abhängen.  
+DSGVO konform  
+
+### Verhalten
+
+- Rückmeldung geben  
+- Wenn man eine Aufgabe erledigt und erfolgreich getestet hat die anderen Personen informieren (u.a. über die Funktionen).  
+- Falls die Gruppe nicht weiterweiß, soll Trimkowski als externer Berater hinzugezogen werden.  
 
 ### Thema
 
