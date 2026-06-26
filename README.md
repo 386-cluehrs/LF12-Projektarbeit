@@ -35,10 +35,10 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
 
 ### Voraussetzungen
 
-Es muss Daten einlesen, speichern und auswerten.  
-Van Kempen hätte gerne etwas um alle Kisten automatisch zu inventarisieren. (Muss aber nicht gemacht werden)  
-Es muss am Ende des Projektes funktionieren, da die Noten davon abhängen.  
-DSGVO konform  
+- Es muss Daten einlesen, speichern und auswerten.  
+- Van Kempen hätte gerne etwas um alle Kisten automatisch zu inventarisieren. (Muss aber nicht gemacht werden)  
+- Es muss am Ende des Projektes funktionieren, da die Noten davon abhängen.  
+- DSGVO konform  
 
 ### Verhalten
 
