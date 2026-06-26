@@ -44,7 +44,7 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
 
 ### Thema
 
-[Raum Monitoring System](https://github.com/386-cluehrs/LF12-Projektarbeit/blob/6e69d2bfa294c82eb41b7f330cadcf5bc0b50250/Design%20Document%20Zeiterfassung.pdf)  
+[Raum Monitoring System](https://github.com/386-cluehrs/LF12-Projektarbeit/blob/335ead55afd4054b8295371465987186caf67101/RoomSense_Smart_Monitoring.pdf)  
 
 ### Dokumentator
 
