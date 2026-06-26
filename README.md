@@ -44,11 +44,7 @@ Hier sind alle informationen zur Projektarbeit im Lernfeld 12 im 2. Lehrjahr.
 
 ### Thema
 
-[Zeiterfassung](https://github.com/386-cluehrs/LF12-Projektarbeit/blob/6e69d2bfa294c82eb41b7f330cadcf5bc0b50250/Design%20Document%20Zeiterfassung.pdf)  
-Geräte-Heatmap  
-Beschleunigungstest  
-Anwesenheitskontrolle für Schüler (RFID-System)  
-(Wetter Station)  
+[Raum Monitoring System](https://github.com/386-cluehrs/LF12-Projektarbeit/blob/6e69d2bfa294c82eb41b7f330cadcf5bc0b50250/Design%20Document%20Zeiterfassung.pdf)  
 
 ### Dokumentator
 
