@@ -84,7 +84,7 @@ Christoph
   </tr>
   <tr>
     <td> 05.06.2026 </td>
-    <td> Projekt vorbereitung begonnen und Wahlen gemacht </td>
+    <td> - Projekt vorbereitung begonnen <br> - Koordinatoren wahlen durchgeführt </td>
   </tr>
   <tr>
     <td> 26.06.2026 </td>
