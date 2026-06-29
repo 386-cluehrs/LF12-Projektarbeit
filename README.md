@@ -88,7 +88,7 @@ Christoph
   </tr>
   <tr>
     <td> 26.06.2026 </td>
-    <td> Weitere Informationen bekommen <br> Informationsblätter zu den Themen gemacht <br> Für ein Thema entschieden </td>
+    <td> - Weitere Informationen bekommen <br> - Informationsblätter zu den Themen gemacht <br> - Für ein Thema entschieden </td>
   </tr>
 </table>
 
